@@ -6,7 +6,7 @@
 - 🤔  I’m looking for help with ... Java Spring
 - 💬  Ask me about
   - PWA
-  - Ionic
+  - Ionic & [Ionic Utah](https://meetup.com/Ionic-Utah)
   - Vue
   - AngularJS/Angular
   - SQL
