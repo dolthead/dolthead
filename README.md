@@ -1,9 +1,9 @@
 ### Cheers! 🖖
 
 - 🔭  I’m currently working on ... Vue.js
-- 🌱  I’m currently learning ... Vue path routing
+- 🌱  I’m currently learning ... AWS & C#
 - 👯  I’m looking to collaborate on ... Vue+Ionic PWA projects
-- 🤔  I’m looking for help with ... Java Spring
+- 🤔  I’m looking for help with ... AWS DB Cert
 - 💬  Ask me about
   - PWA
   - Ionic & [Ionic Utah](https://meetup.com/Ionic-Utah)
