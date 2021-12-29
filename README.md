@@ -1,6 +1,6 @@
 ### Cheers! 🖖
 
-- 🔭  I’m currently working on ... Vue.js
+- 🔭  I’m currently working on ... AngularJS
 - 🌱  I’m currently learning ... AWS & C#
 - 👯  I’m looking to collaborate on ... Vue+Ionic PWA projects
 - 🤔  I’m looking for help with ... AWS DB Cert
